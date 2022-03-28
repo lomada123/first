@@ -1,0 +1,20 @@
+	background:#f7f8fa;
+}
+	header li{
+		display:inline-block;
+		padding:15px;
+	}
+	header li:last-child{
+		float:right;	
+	}
+	header{
+		background:#f5511c;
+		padding:0px 50px;
+	}
+	header li a,span{
+		color:white;
+		font-size:15px;	
+	}
+	header span i{
+		padding-right:10px;	
+	}
